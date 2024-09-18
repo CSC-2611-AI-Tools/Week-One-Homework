@@ -1,5 +1,4 @@
 # Week-One-Homework-Repository
-This is a repository dedicated to storing code that has been taken from homework one, which can be meant for future reference
 
 ## Assignment 0: Hello Python
 Overview: In this exercise you will get Python Installed on your laptop and get some experience building and 
